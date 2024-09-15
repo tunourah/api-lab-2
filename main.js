@@ -13,7 +13,7 @@ fetch(url)
             let text = document.createElement('p');
 
          
-            card.className = 'card col-md-4 col-lg-3  col-sm-6 col-xs-12 m-3'; 
+            card.className = 'card col-md-4 col-lg-2 col-sm-6 col-xs-12 m-2 shadow-lg  border border-secondary'; 
             cardBody.className = 'card-body';
             title.className = 'card-header';
              
